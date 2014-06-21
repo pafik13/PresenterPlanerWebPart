@@ -1,0 +1,9 @@
+<!DOCTYPE root [
+  <!ELEMENT root ANY> 
+  <!ELEMENT item ANY> 
+  <!ATTLIST item id ID #REQUIRED>]>
+<root>
+  <item id="version">1.5</item>
+  <item id="versionApp">1.5</item>
+  <item id="versionPrs">deeeb055e7132c0151a534f1dd58cbfb</item>
+</root>
